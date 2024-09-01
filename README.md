@@ -37,3 +37,30 @@ This project examines how machine learning techniques can be applied to optimize
 - Comparative studies of different machine learning models.
 
 
+
+### Description
+
+- **assets/**: Contains deliverables and results of the project.
+  - **deliverables/**:
+    - `Video_Presentation.mp4`: A video presentation summarizing the project.
+  - **result/**:
+    - `Table-Performance Results of All Classifiers.jpg`: A table summarizing the performance results of all classifiers used in the project.
+    - `Technical design and approach.jpg`: An image detailing the technical design and approach of the project.
+
+- **data/**: Contains the dataset used for analysis and modeling.
+  - `courbes-de-production-mensuelles-eolien-solaire-complement-de-remuneration.csv`: A CSV file with monthly production curves for wind and solar energy in France.
+
+- **notebooks/**: Jupyter notebooks containing the exploratory data analysis (EDA) and machine learning models.
+  - **EDA/**:
+    - `EDA_Renewable_Energy.ipynb`: Notebook for exploratory data analysis of renewable energy data.
+  - **ML_Algorithms/**:
+    - `Solar_Wind_Energy_Prediction_BaggingRegressor.ipynb`: Implementation of the Bagging Regressor algorithm for predicting solar and wind energy production.
+    - `Solar_Wind_Energy_Prediction_KNN.ipynb`: Implementation of the K-Nearest Neighbors (KNN) algorithm for predicting solar and wind energy production.
+    - `Solar_Wind_Energy_Prediction_LightGBM.ipynb`: Implementation of the LightGBM algorithm for predicting solar and wind energy production.
+    - `Solar_Wind_Energy_Prediction_RSM.ipynb`: Implementation of the Regularized Smoothing Method (RSM) for predicting solar and wind energy production.
+    - `Solar_Wind_Energy_Prediction_RandomForest.ipynb`: Implementation of the Random Forest algorithm for predicting solar and wind energy production.
+    - `Solar_Wind_Energy_Prediction_XGBoost.ipynb`: Implementation of the XGBoost algorithm for predicting solar and wind energy production.
+
+- **README.md**: Documentation for the project, providing an overview, structure, and usage instructions.
+
+
