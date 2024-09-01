@@ -59,6 +59,6 @@ This project examines how machine learning techniques can be applied to optimize
 
 ### Conclusion
 
-Ultimately, the Random Forest model demonstrated superior performance, achieving a 98% accuracy rate. This result underscores the significant potential of the Random Forest model for precise prediction of solar and wind energy production, making it a highly effective tool in optimizing renewable energy outputs.
+The Random Forest model exhibited the strongest performance, achieving an accuracy rate of 98%. This result highlights its considerable potential for accurately predicting solar and wind energy production, making it a highly effective tool for optimising renewable energy output.
 
 
