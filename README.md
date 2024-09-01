@@ -4,7 +4,7 @@
 Author: Masoud Rayat Zadeh  
 Supervisor: Dr. Neil Phillips
 
-Independent project report submitted for the degree of Master of Science in Data Science  
+This repository contains the code and materials for an MSc Data Science dissertation.
 University of the West of England (UWE) Bristol
 
 August 2024
