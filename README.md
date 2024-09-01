@@ -7,7 +7,7 @@ Supervisor: Dr. Neil Phillips
 
 August 2024
 
-## Technologies Used
+This project explores the use of machine learning techniques to optimize electricity production from solar and wind energy sources. The goal is to enhance the sustainability and efficiency of renewable energy generation by leveraging data-driven insights.
 
 ## Technologies Used
 
