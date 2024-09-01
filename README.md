@@ -25,17 +25,13 @@ This project examines how machine learning techniques can be applied to optimize
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Pyomo](https://img.shields.io/badge/Pyomo-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
-
-
-
 ## Features
 
-- Predictive models for solar and wind energy production.
-- Optimization algorithms for maximizing electricity output.
-- Data analysis and visualization tools for renewable energy trends.
-- Comparative studies of different machine learning models.
-
+- **Predictive Models:** Develops and evaluates machine learning models to predict solar and wind energy production in France based on environmental and operational data from 2020 to 2023.
+- **Optimization Algorithms:** Implements optimization algorithms designed to maximize electricity output while considering sustainability constraints specific to the French energy market.
+- **Data Analysis & Visualization:** Includes tools for analyzing and visualizing trends in renewable energy data within France, offering insights into key factors influencing energy production over the past three years.
+- **Performance Evaluation:** Assessed model accuracy using metrics such as MAE, RMSE, and R² to ensure the reliability and precision of the predictions.
+- **Comparative Studies:** Conducts comparative studies of different machine learning models to determine the most effective approaches for energy prediction and optimization in the French context.
 
 
 ### Project Structure
@@ -62,5 +58,9 @@ This project examines how machine learning techniques can be applied to optimize
     - `Solar_Wind_Energy_Prediction_XGBoost.ipynb`: Implementation of the XGBoost algorithm for predicting solar and wind energy production.
 
 - **README.md**: Documentation for the project, providing an overview, structure, and usage instructions.
+
+### Conclusion
+
+Ultimately, the Random Forest model demonstrated superior performance, achieving a 98% accuracy rate. This result underscores the significant potential of the Random Forest model for precise prediction of solar and wind energy production, making it a highly effective tool in optimizing renewable energy outputs.
 
 
