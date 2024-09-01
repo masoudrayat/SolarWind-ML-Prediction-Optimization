@@ -1,7 +1,10 @@
 
 # Optimization Sustainability: Machine Learning Insights for Enhanced Electricity Production from Solar and Wind Energy
-
-This project explores the use of machine learning techniques to optimize electricity production from solar and wind energy sources. The goal is to enhance the sustainability and efficiency of renewable energy generation by leveraging data-driven insights.
+Independent project report submitted for the degree of Master of Science in Data Science
+University of the West of England
+August 2024
+Author: Masoud Rayat Zadeh
+Supervisor: Dr. Neil Phillips
 
 
 ## Features
