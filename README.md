@@ -31,7 +31,6 @@ This project examines how machine learning techniques can be applied to optimize
 - **Optimization Algorithms:** Implements optimization algorithms designed to maximize electricity output while considering sustainability constraints specific to the French energy market.
 - **Data Analysis & Visualization:** Includes tools for analyzing and visualizing trends in renewable energy data within France, offering insights into key factors influencing energy production over the past three years.
 - **Performance Evaluation:** Assessed model accuracy using metrics such as MAE, RMSE, and R² to ensure the reliability and precision of the predictions.
-- **Comparative Studies:** Conducts comparative studies of different machine learning models to determine the most effective approaches for energy prediction and optimization in the French context.
 
 
 ### Project Structure
