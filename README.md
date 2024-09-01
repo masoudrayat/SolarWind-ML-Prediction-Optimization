@@ -38,7 +38,7 @@ This project examines how machine learning techniques can be applied to optimize
 
 
 
-### Description
+### Project Structure
 
 - **assets/**: Contains deliverables and results of the project.
   - **deliverables/**:
@@ -48,7 +48,7 @@ This project examines how machine learning techniques can be applied to optimize
     - `Technical design and approach.jpg`: An image detailing the technical design and approach of the project.
 
 - **data/**: Contains the dataset used for analysis and modeling.
-  - `courbes-de-production-mensuelles-eolien-solaire-complement-de-remuneration.csv`: A CSV file with monthly production curves for wind and solar energy in France.
+  - `courbes-de-production-mensuelles-eolien-solaire-complement-de-remuneration.csv`
 
 - **notebooks/**: Jupyter notebooks containing the exploratory data analysis (EDA) and machine learning models.
   - **EDA/**:
