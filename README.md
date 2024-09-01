@@ -2,6 +2,7 @@
 **Optimization Sustainability: Machine Learning Insights for Enhanced Electricity Production from Solar and Wind Energy**  
 Independent project report submitted for the degree of Master of Science in Data Science  
 University of the West of England (UWE) Bristol
+
 Author: Masoud Rayat Zadeh  
 Supervisor: Dr. Neil Phillips
 
