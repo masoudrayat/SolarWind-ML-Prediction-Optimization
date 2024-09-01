@@ -7,7 +7,8 @@ Supervisor: Dr. Neil Phillips
 
 August 2024
 
-This project explores the use of machine learning techniques to optimize electricity production from solar and wind energy sources. The goal is to enhance the sustainability and efficiency of renewable energy generation by leveraging data-driven insights.
+## Project Overview
+This project examines how machine learning techniques can be applied to optimize electricity production from solar and wind energy sources in France. Focusing on the years 2020 to 2023, the study aims to enhance the sustainability and efficiency of renewable energy generation. Through the analysis of historical data, the development of predictive models, and the use of optimization algorithms, this research seeks to provide actionable insights that can improve the performance and reliability of renewable energy systems.
 
 ## Technologies Used
 
