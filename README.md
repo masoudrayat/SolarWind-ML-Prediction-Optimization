@@ -2,12 +2,11 @@
 ### Optimization Sustainability: Machine Learning Insights for Enhanced Electricity Production from Solar and Wind Energy 
 
 Author: Masoud Rayat Zadeh  
-Supervisor: Dr. Neil Phillips
-
-This repository contains the code and materials for an MSc Data Science dissertation.
-University of the West of England (UWE) Bristol
-
+Supervisor: Dr. Neil Phillips  
+This repository contains the code and materials for an MSc Data Science dissertation.  
+University of the West of England (UWE) Bristol  
 August 2024
+
 
 ## Project Overview
 This project examines how machine learning techniques can be applied to optimize electricity production from solar and wind energy sources in France. Focusing on the years 2020 to 2023, the study aims to enhance the sustainability and efficiency of renewable energy generation. Through the analysis of historical data, the development of predictive models, and the use of optimization algorithms, this research seeks to provide actionable insights that can improve the performance and reliability of renewable energy systems.
