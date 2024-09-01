@@ -3,6 +3,7 @@
 Independent project report submitted for the degree of Master of Science in Data Science  
 University of the West of England  
 August 2024 
+
 Author: Masoud Rayat Zadeh  
 Supervisor: Dr. Neil Phillips
 
