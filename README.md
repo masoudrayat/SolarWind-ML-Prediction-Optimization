@@ -5,6 +5,7 @@ Author: Masoud Rayat Zadeh
 Supervisor: Dr. Neil Phillips  
 This repository contains the code and materials for an MSc Data Science dissertation.  
 University of the West of England (UWE) Bristol  
+Department of Computing and Creative Technologies
 August 2024
 
 
