@@ -3,9 +3,9 @@
 
 This repository contains the code and materials for an MSc Data Science dissertation.
 
-Author:**Masoud Rayat Zadeh**
+Author: **Masoud Rayat Zadeh**
 
-Supervisor:**Dr. Neil Phillips**
+Supervisor: **Dr. Neil Phillips**
 
 University of the West of England (UWE) Bristol
 
