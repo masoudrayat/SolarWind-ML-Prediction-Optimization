@@ -1,12 +1,11 @@
 
 ### Optimization Sustainability: Machine Learning Insights for Enhanced Electricity Production from Solar and Wind Energy 
 
+This repository contains the code and materials for an MSc Data Science dissertation.
 
 **Author:** Masoud Rayat Zadeh
 
 **Supervisor:** Dr. Neil Phillips
-
-This repository contains the code and materials for an MSc Data Science dissertation.
 
 University of the West of England (UWE) Bristol
 
