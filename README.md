@@ -14,7 +14,6 @@ Department of Computing and Creative Technologies
 
 August 2024
 
-![UWE Bristol Logo](path/to/UWE-Bristol-Logo-Banner-600x540.png)
 
 
 ## Project Overview
