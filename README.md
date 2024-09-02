@@ -8,13 +8,13 @@
 
 This repository contains the code and materials for an MSc Data Science dissertation.
 
-**University:** University of the West of England (UWE) Bristol
+University of the West of England (UWE) Bristol
 
-**Department:** Department of Computing and Creative Technologies
+Department of Computing and Creative Technologies
 
-**Date:** August 2024
+August 2024
 
-![UWE Bristol Logo](path/to/your/logo.png)
+![UWE Bristol Logo](path/to/UWE-Bristol-Logo-Banner-600x540.png)
 
 
 ## Project Overview
